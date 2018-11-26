@@ -1,4 +1,5 @@
 import beans.Message;
+import config.ExampleConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
